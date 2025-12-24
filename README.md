@@ -197,11 +197,3 @@ I focus on building systems that are fast, efficient, and reliable — whether t
 <br/>
 
 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guy-Lay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guy-Lay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Lay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
