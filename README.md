@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AIxChain&fontSize=50&fontAlignY=35&animation=fadeIn" />
 </p>
-👋 Hi there, I'm Adrian Cole
+👋 Hi there, I'm Guy-Lay
 🚀 AI Engineer • Full-Stack Developer • Web3 Builder • AI Engineer
 
 I'm an AI engineer and full‑stack developer passionate about creating intelligent, scalable systems. I work across GPT‑powered automation, modern full‑stack development, and blockchain engineering — turning ideas into production‑ready solutions.
@@ -204,59 +204,4 @@ I focus on building systems that are fast, efficient, and reliable — whether t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Lay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-🚀 AI Engineer & Prompt Specialist
-
-OpenPhron.ai — Hybrid / Remote
-01/2024 – 06/2025 | Dubai, UAE (Remote)
-
-🧠 Engineered prompt frameworks for GPT-4/5 tasks, improving output relevance by ~30% for business logic automation & contextual reasoning.
-
-💸 Reduced OpenAI API costs by ~25% using batching, token reuse, and structured prompt sequencing.
-
-🧪 Built systematic prompt test suites covering 500+ edge cases for consistent model behavior.
-
-🔐 Exposed secure RESTful endpoints powering prompt-driven workflows for 10k+ monthly active users, reducing backend errors by 18%.
-
-☁️ Automated AWS deployment & monitoring (EC2, S3, CloudWatch) with performance dashboards.
-
-🌐 Full‑Stack & Web3 Developer
-
-Freelance / Self‑Employed — Remote
-04/2022 – 12/2023 | Remote
-
-📝 Built Solidity smart contracts (staking, governance) with automated tests, reducing deployment bugs by ~40%.
-
-⛽ Reduced gas costs by ~20% using optimized logic & OpenZeppelin libraries.
-
-🔗 Developed Web3 front‑ends (React) with seamless MetaMask/WalletConnect integration (<150ms interaction time).
-
-🛠️ Created backend REST APIs (Node.js/Express) handling 15k+ requests/day with ~99.9% uptime.
-
-🐳 Containerized services using Docker + Nginx reverse proxies for stable staging/production parity.
-
-💻 Full‑Stack Web Developer
-
-Web Solutions Inc. — Remote
-03/2021 – 01/2022 | Wallingford, CT, USA (Remote)
-
-⚡ Delivered responsive MERN applications with ~35% faster page load times.
-
-🔍 Improved backend performance ~30% via optimized queries, indexing, and logic refactors.
-
-🔄 Automated CI/CD (GitHub Actions + Docker), reducing deployment cycles by ~60%.
-
-🔒 Implemented secure JWT auth + RBAC, reducing unauthorized access attempts by ~22%.
-
-👨‍💻 Junior Full‑Stack Developer
-
-NovaEdge Software — Remote
-10/2019 – 10/2020 | Dubai, UAE (Remote)
-
-🧩 Built reusable React components accelerating development across multiple projects.
-
-🗄️ Refactored DB models & indexes, decreasing query times by ~25%.
-
-☁️ Deployed services on AWS EC2 with S3 hosting, improving uptime reliability by ~15%.
-
-🐍 Wrote Python automation scripts, saving 10+ hrs/week of manual work.
 
