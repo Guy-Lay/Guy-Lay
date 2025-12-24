@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AIxChain&fontSize=50&fontAlignY=35&animation=fadeIn" />
 </p>
-👋 Hi there, I'm Guy-Lay
+👋 Hi there, I'm AIxChain
 🚀 AI Engineer • Full-Stack Developer • Web3 Builder • AI Engineer
 
 I'm an AI engineer and full‑stack developer passionate about creating intelligent, scalable systems. I work across GPT‑powered automation, modern full‑stack development, and blockchain engineering — turning ideas into production‑ready solutions.
